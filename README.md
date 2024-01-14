@@ -12,9 +12,9 @@ Cultural attitudes and stigmas shape how mental illness is perceived and subsequ
 <br>
 
 ### N E E D
-What is the correlation between social connection and the prevalence of depressive and anxiety disorder? 
+   - What is the correlation between social connection and the prevalence of depressive and anxiety disorder? 
 
-What is the correlation between Augmented HDI, income, government investment, and the prevalence of depressive and anxiety disorder? 
+   - What is the correlation between Augmented HDI, income, government investment, and the prevalence of depressive and anxiety disorder? 
 
 <br>
 
