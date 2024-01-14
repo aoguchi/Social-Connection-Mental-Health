@@ -11,6 +11,7 @@ Cultural attitudes and stigmas shape how mental illness is perceived and subsequ
 
 ### N E E D
 What is the correlation between social connection and the prevalence of depressive and anxiety disorder? 
+
 What is the correlation between Augmented HDI, income, government investment, and the prevalence of depressive and anxiety disorder? 
 
 <br>
@@ -19,10 +20,15 @@ What is the correlation between Augmented HDI, income, government investment, an
 A total of 11 datasets were gathered from multiple online data repositories and sources listed below:
 
 • standardized continents & regions: 
+
    United Nations Statistics Division
+   
 • prevelance of mental disorders: 
+
    Institute for Health Metrics and Evaluation (IHME); "Global Burden of Disease Study"
+   
    1990-2019
+   
 • GDPpc, AHDI, population, GNIpc: 
    World Bank's Global Economic Prospects
    GDPpc: annually from 1990-2018
