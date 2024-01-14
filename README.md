@@ -30,24 +30,43 @@ A total of 11 datasets were gathered from multiple online data repositories and 
    1990-2019
    
 • GDPpc, AHDI, population, GNIpc: 
+
    World Bank's Global Economic Prospects
+   
    GDPpc: annually from 1990-2018
+   
    AHDI: every 5 years from 1990-2020
+   
    GNIpc: single reporting 2022
+   
 • percent government investment on mental health within a larger healthcare budget:
+
    World Health Organization
+   
    2011
+   
 • mental health legislation: 
+
    World Health Organization; "Existence of dedicated mental health legislation"
+   
    2013-2017 (latest status only)
+   
 • mental health policy:
+
    World Health Organization; "Existence of an officially approved mental health policy"
+   
    2011
+   
 • cultural attitude towards anxiety & depression  |  coping mechanisms:
+
    Wellcome; "Wellcome Global Monitor Mental Health"
+   
    2020
+   
 • happiness index: 
+
    World Happiness Report; "World Happiness Report 2023"
+   
    2008-2022
 
 <br>
