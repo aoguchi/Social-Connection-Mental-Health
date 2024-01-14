@@ -22,7 +22,7 @@ What is the correlation between Augmented HDI, income, government investment, an
 A total of 11 datasets were gathered from multiple online data repositories and sources listed below:
 
 
-• standardized continents & regions: 
+   - standardized continents & regions: 
 
    United Nations Statistics Division
    
