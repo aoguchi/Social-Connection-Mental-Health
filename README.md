@@ -1,4 +1,4 @@
-# Relationship between social connection & prevalence of depressive and anxiety disorder: 
+# Relationship Between Social Connection & Prevalence of Depressive and Anxiety Disorder
 
 Python | Excel | Tableau | Adobe Illustrator 
 
