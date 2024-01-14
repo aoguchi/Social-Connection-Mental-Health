@@ -24,7 +24,7 @@ A total of 11 datasets were gathered from multiple online data repositories and 
 
    - standardized continents & regions: 
 
-   United Nations Statistics Division
+     United Nations Statistics Division
    
 • prevelance of mental disorders: 
 
