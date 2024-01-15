@@ -76,8 +76,8 @@ A total of 11 datasets were gathered from multiple online data repositories and 
 
 ### T O O L S
    - data processing, integration, aggregation, analysis: Microsoft Excel, Python
-   - data visualization: Tableau
-   - data presentation: Adobe Illustrator 
+   - data visualization: Python, Tableau
+   - data presentation: Tableau, Adobe Illustrator 
 
 <br>
 
