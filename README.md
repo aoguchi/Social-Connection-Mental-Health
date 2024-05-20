@@ -82,7 +82,9 @@ A total of 11 datasets were gathered from multiple online data repositories and 
 <br>
 
 ### S K I L L S
+   - pair plots
    - correlation coefficient heatmaps
    - spatial and time-series analysis
-   - linear regressions
+   - linear regression analysis
    - k-mean clusters
+   - time-series analysis and stationarying
